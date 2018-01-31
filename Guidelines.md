@@ -1,3 +1,5 @@
+# FOR PERSONAL USE
+
 # Microsoft REST API Guidelines
 ## Microsoft REST API Guidelines Working Group
 
